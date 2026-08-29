@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 2,
+  "catalogVersion": 3,
   "packs": [
     {
       "id": "test",
@@ -12,6 +12,18 @@
       },
       "icon": "frames/test/icon.png",
       "manifest": "frames/test/manifest.json"
+    },
+    {
+      "id": "pinterest2",
+      "schemaVersion": 2,
+      "updatedAt": "2026-08-29T15:03:19.222Z",
+      "premium": false,
+      "names": {
+        "en": "pinterest2",
+        "vi": "pinterest2"
+      },
+      "icon": "frames/pinterest2/icon.png",
+      "manifest": "frames/pinterest2/manifest.json"
     }
   ]
 }

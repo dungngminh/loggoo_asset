@@ -40,7 +40,8 @@ Increase `catalogVersion` whenever the published pack set or any referenced pack
 changes. Keep `id`, `schemaVersion`, `premium`, and `names` aligned between the
 catalog entry and its manifest.
 
-Overlays may be png, jpg, or jpeg. Use png when the chrome needs transparent holes so photos show through.
+Overlays may be png, jpg, or jpeg. They form the pack background; photo slots render
+above them, matching the web studio preview. Use png when the artwork itself needs transparency.
 
 Coordinates in each manifest are fractions of the 360dp frame canvas, not pixels.
 
@@ -56,9 +57,10 @@ uses the app's fixed 360dp design canvas:
 }
 ```
 
-Omit `mood` when an aspect does not use it. The app renders `FrameDay.topMood` at that placement and
-draws nothing when the day has no mood. Schema-v1 packs remain valid and behave as if `mood` were
-absent. Catalog entries declare their pack `schemaVersion`; mood geometry stays in `manifest.json`.
+Omit `mood` when an aspect does not use it. The app renders `FrameDay.topMood` on its standard
+mood-color background tile at that placement and draws nothing when the day has no mood. Schema-v1
+packs remain valid and behave as if `mood` were absent. Catalog entries declare their pack
+`schemaVersion`; mood geometry stays in `manifest.json`.
 
 Each aspect has the same shape. `slots` and `texts` may contain multiple items;
 `mood` is either omitted or contains exactly one placement:
