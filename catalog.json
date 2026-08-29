@@ -1,4 +1,17 @@
 {
   "catalogVersion": 1,
-  "packs": []
+  "packs": [
+    {
+      "id": "test",
+      "schemaVersion": 1,
+      "updatedAt": "2026-08-29T13:14:38.337Z",
+      "premium": true,
+      "names": {
+        "en": "test",
+        "vi": "test"
+      },
+      "icon": "frames/test/icon.png",
+      "manifest": "frames/test/manifest.json"
+    }
+  ]
 }
