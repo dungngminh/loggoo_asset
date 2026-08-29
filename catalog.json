@@ -1,10 +1,10 @@
 {
-  "catalogVersion": 1,
+  "catalogVersion": 2,
   "packs": [
     {
       "id": "test",
-      "schemaVersion": 1,
-      "updatedAt": "2026-08-29T13:14:38.337Z",
+      "schemaVersion": 2,
+      "updatedAt": "2026-08-29T14:01:00.000Z",
       "premium": true,
       "names": {
         "en": "test",

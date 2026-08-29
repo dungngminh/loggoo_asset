@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "test",
   "names": {
     "en": "test",
@@ -47,7 +47,13 @@
         "cornerDp": 8
       }
     ],
-    "texts": []
+    "texts": [],
+    "mood": {
+      "x": 0.72,
+      "y": 0.08,
+      "sizeDp": 48,
+      "rotation": 0
+    }
   },
   "post": {
     "overlay": "post.jpg",
@@ -89,6 +95,12 @@
         "cornerDp": 8
       }
     ],
-    "texts": []
+    "texts": [],
+    "mood": {
+      "x": 0.74,
+      "y": 0.06,
+      "sizeDp": 44,
+      "rotation": -4
+    }
   }
 }
