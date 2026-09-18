@@ -1,5 +1,17 @@
 {
-  "catalogVersion": 5,
+  "catalogVersion": 6,
   "packs": [
+    {
+      "id": "photo_dump",
+      "schemaVersion": 3,
+      "updatedAt": "2026-09-18T17:28:18.706Z",
+      "premium": true,
+      "names": {
+        "en": "Dumpy",
+        "vi": "Dumpy"
+      },
+      "icon": "frames/photo_dump/icon.png",
+      "manifest": "frames/photo_dump/manifest.json"
+    }
   ]
 }
