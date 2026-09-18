@@ -1,0 +1,206 @@
+{
+  "schemaVersion": 3,
+  "id": "photo_dump",
+  "names": {
+    "en": "Photo Dump",
+    "vi": "Photo Dump"
+  },
+  "premium": true,
+  "photoCapacity": 6,
+  "story": {
+    "overlay": "story.png",
+    "slots": [
+      {
+        "photo": 0,
+        "x": 0.4577,
+        "y": 0.0468,
+        "w": 0.4352,
+        "h": 0.2664,
+        "rotation": 7,
+        "cornerDp": 8
+      },
+      {
+        "photo": 1,
+        "x": 0.1019,
+        "y": 0.2449,
+        "w": 0.4253,
+        "h": 0.2376,
+        "rotation": -7,
+        "cornerDp": 8
+      },
+      {
+        "photo": 2,
+        "x": 0.5133,
+        "y": 0.3149,
+        "w": 0.4127,
+        "h": 0.2447,
+        "rotation": 7,
+        "cornerDp": 8
+      },
+      {
+        "photo": 3,
+        "x": 0.0254,
+        "y": 0.4923,
+        "w": 0.3799,
+        "h": 0.2364,
+        "rotation": -5,
+        "cornerDp": 8
+      },
+      {
+        "photo": 4,
+        "x": 0.4589,
+        "y": 0.568,
+        "w": 0.4445,
+        "h": 0.16,
+        "rotation": -7,
+        "cornerDp": 8
+      },
+      {
+        "photo": 5,
+        "x": 0.1999,
+        "y": 0.7084,
+        "w": 0.6434,
+        "h": 0.2399,
+        "rotation": -5,
+        "cornerDp": 8
+      }
+    ],
+    "texts": [],
+    "mood": {
+      "x": 0.7956,
+      "y": 0.8772,
+      "sizeDp": 48,
+      "rotation": 0
+    },
+    "layers": [
+      {
+        "kind": "photo",
+        "photo": 0
+      },
+      {
+        "kind": "photo",
+        "photo": 1
+      },
+      {
+        "kind": "photo",
+        "photo": 2
+      },
+      {
+        "kind": "photo",
+        "photo": 5
+      },
+      {
+        "kind": "photo",
+        "photo": 3
+      },
+      {
+        "kind": "photo",
+        "photo": 4
+      },
+      {
+        "kind": "overlay"
+      },
+      {
+        "kind": "mood"
+      }
+    ]
+  },
+  "post": {
+    "overlay": "post.png",
+    "slots": [
+      {
+        "photo": 0,
+        "x": 0.4859,
+        "y": 0.0686,
+        "w": 0.3599,
+        "h": 0.2429,
+        "rotation": 7,
+        "cornerDp": 8
+      },
+      {
+        "photo": 1,
+        "x": 0.1693,
+        "y": 0.2444,
+        "w": 0.3199,
+        "h": 0.2607,
+        "rotation": -7,
+        "cornerDp": 8
+      },
+      {
+        "photo": 2,
+        "x": 0.5222,
+        "y": 0.3255,
+        "w": 0.3231,
+        "h": 0.2477,
+        "rotation": 5,
+        "cornerDp": 8
+      },
+      {
+        "photo": 3,
+        "x": 0.1297,
+        "y": 0.5135,
+        "w": 0.3077,
+        "h": 0.2386,
+        "rotation": -7,
+        "cornerDp": 8
+      },
+      {
+        "photo": 4,
+        "x": 0.5257,
+        "y": 0.5881,
+        "w": 0.3074,
+        "h": 0.2012,
+        "rotation": -6,
+        "cornerDp": 8
+      },
+      {
+        "photo": 5,
+        "x": 0.2517,
+        "y": 0.6934,
+        "w": 0.5421,
+        "h": 0.2596,
+        "rotation": -5,
+        "cornerDp": 8
+      }
+    ],
+    "texts": [],
+    "mood": {
+      "x": 0.7569,
+      "y": 0.8772,
+      "sizeDp": 42,
+      "rotation": 0
+    },
+    "layers": [
+      {
+        "kind": "photo",
+        "photo": 0
+      },
+      {
+        "kind": "photo",
+        "photo": 1
+      },
+      {
+        "kind": "photo",
+        "photo": 5
+      },
+      {
+        "kind": "photo",
+        "photo": 2
+      },
+      {
+        "kind": "photo",
+        "photo": 3
+      },
+      {
+        "kind": "photo",
+        "photo": 4
+      },
+      {
+        "kind": "overlay"
+      },
+      {
+        "kind": "mood"
+      }
+    ]
+  }
+}
