@@ -5,7 +5,7 @@
       "id": "photo_dump",
       "schemaVersion": 3,
       "updatedAt": "2026-09-18T17:28:18.706Z",
-      "premium": true,
+      "premium": false,
       "names": {
         "en": "Dumpy",
         "vi": "Dumpy"

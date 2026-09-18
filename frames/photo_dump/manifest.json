@@ -2,10 +2,10 @@
   "schemaVersion": 3,
   "id": "photo_dump",
   "names": {
-    "en": "Photo Dump",
-    "vi": "Photo Dump"
+    "en": "Dumpy",
+    "vi": "Dumpy"
   },
-  "premium": true,
+  "premium": false,
   "photoCapacity": 6,
   "story": {
     "overlay": "story.png",
