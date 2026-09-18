@@ -1,11 +1,11 @@
 {
-  "catalogVersion": 6,
+  "catalogVersion": 7,
   "packs": [
     {
       "id": "photo_dump",
       "schemaVersion": 3,
       "updatedAt": "2026-09-18T17:28:18.706Z",
-      "premium": false,
+      "premium": true,
       "names": {
         "en": "Dumpy",
         "vi": "Dumpy"
