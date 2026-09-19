@@ -50,6 +50,7 @@
         "w": 0.283,
         "font": "caveat",
         "sizeSp": 18,
+        "rotation": 0,
         "color": "#FFFFFF",
         "maxLines": 4,
         "align": "start"
@@ -137,6 +138,7 @@
         "sizeSp": 18,
         "color": "#FFFFFF",
         "maxLines": 3,
+        "rotation": 0,
         "align": "start"
       }
     ],
