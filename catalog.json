@@ -1,5 +1,5 @@
 {
-  "catalogVersion": 7,
+  "catalogVersion": 8,
   "packs": [
     {
       "id": "photo_dump",
@@ -7,11 +7,23 @@
       "updatedAt": "2026-09-18T17:28:18.706Z",
       "premium": false,
       "names": {
-        "en": "Dumpy",
-        "vi": "Dumpy"
+        "en": "dumpy",
+        "vi": "dumpy"
       },
       "icon": "frames/photo_dump/icon.png",
       "manifest": "frames/photo_dump/manifest.json"
+    },
+    {
+      "id": "sea",
+      "schemaVersion": 4,
+      "updatedAt": "2026-09-19T10:04:48.632Z",
+      "premium": true,
+      "names": {
+        "en": "sea",
+        "vi": "sea"
+      },
+      "icon": "frames/sea/icon.png",
+      "manifest": "frames/sea/manifest.json"
     }
   ]
 }

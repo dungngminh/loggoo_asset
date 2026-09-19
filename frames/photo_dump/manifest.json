@@ -2,8 +2,8 @@
   "schemaVersion": 3,
   "id": "photo_dump",
   "names": {
-    "en": "Dumpy",
-    "vi": "Dumpy"
+    "en": "dumpy",
+    "vi": "dumpy"
   },
   "premium": false,
   "photoCapacity": 6,
